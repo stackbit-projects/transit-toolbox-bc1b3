@@ -26,6 +26,7 @@ params:
         style: link
         icon: arrow-left
         has_icon: false
+        new_window: true
       - type: action
         template: action
         label: About
