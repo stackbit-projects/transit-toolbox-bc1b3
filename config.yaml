@@ -24,7 +24,7 @@ params:
         label: Pricing
         url: /pricing
         style: link
-        icon: linkedin
+        icon: arrow-left
         has_icon: false
       - type: action
         template: action
