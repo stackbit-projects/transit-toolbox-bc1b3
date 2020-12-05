@@ -34,6 +34,7 @@ params:
         label: Blog
         url: /blog
         style: link
+        has_icon: true
       - type: action
         template: action
         label: Style Guide
