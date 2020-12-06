@@ -71,7 +71,7 @@ sections:
             icon_position: center
         actions_align: left
         image: images/classic/icon-1.svg
-        image_position: left
+        image_position: top
         image_align: left
         image_has_padding: true
         image_width: twenty-five
