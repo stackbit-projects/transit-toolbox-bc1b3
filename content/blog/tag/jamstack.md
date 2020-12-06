@@ -3,7 +3,7 @@ title: JAMstack
 sections:
   - type: hero_section
     template: hero_section
-    title: JAMstacks
+    title: JAMstack
     subtitle: The optional subtitle
     align: center
     padding_top: medium
