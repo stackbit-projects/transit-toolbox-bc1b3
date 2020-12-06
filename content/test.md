@@ -1,6 +1,6 @@
 ---
 title: This is a test page
-excerpt: Some excerpt text f
+excerpt: Some excerpt text
 layout: page
 ---
 ## Lorem ipsum
