@@ -2,7 +2,7 @@ title: Stackbit DIY Theme
 baseURL: /
 params:
   description: A "do it yourself" theme for Stackbit
-  layout: boxed
+  layout: full-width
   style: classic
   palette: green
   mode: light
