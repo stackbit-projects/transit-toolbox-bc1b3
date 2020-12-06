@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: This is a test page
 excerpt: lorem-ipsum
 layout: page
 ---
